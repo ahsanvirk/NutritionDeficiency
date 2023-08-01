@@ -1,0 +1,23 @@
+Nutrition Related Rules:
+
+What body type are you?
+How much protein is in your diet?
+How much carbs are in your diet?
+How many fats are in your diet?
+
+____________________________________________________________________________
+
+Budget Related Rules:
+
+
+What is your salary per year?
+What is the cost of the item?
+How much money do you have saved?
+Will you be doing payments? How many payments?
+How many times a week will you use the item?
+From 1-5 how much will it enhance your daily life?
+Will the price of the item depreciate when you buy it?
+Can you find it cheaper somewhere else?
+Will it last a long time?
+Do i have something similar to this at home already?
+Will it need maintenance when once you buy it? how much per day?
